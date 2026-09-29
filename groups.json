@@ -1,0 +1,56 @@
+[
+  {
+    "name": "ATF University of Ghana",
+    "university": "University of Ghana",
+    "country": "Ghana",
+    "city": "Accra",
+    "type": "University",
+    "description": "A campus community for students interested in technology, leadership, innovation and service.",
+    "link": "https://example.com"
+  },
+  {
+    "name": "ATF KNUST",
+    "university": "Kwame Nkrumah University of Science and Technology",
+    "country": "Ghana",
+    "city": "Kumasi",
+    "type": "University",
+    "description": "Connect with students and young professionals at KNUST through the ATF network.",
+    "link": "https://example.com"
+  },
+  {
+    "name": "ATF UCC",
+    "university": "University of Cape Coast",
+    "country": "Ghana",
+    "city": "Cape Coast",
+    "type": "University",
+    "description": "A student group connecting campus members around technology and professional development.",
+    "link": "https://example.com"
+  },
+  {
+    "name": "ATF Young Professionals Ghana",
+    "university": "Young Professionals Network",
+    "country": "Ghana",
+    "city": "Accra",
+    "type": "Young Professionals",
+    "description": "A network for young professionals, graduates and emerging leaders.",
+    "link": "https://example.com"
+  },
+  {
+    "name": "ATF Campus Nigeria",
+    "university": "University Network",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "type": "University",
+    "description": "An example regional group. Replace this record with your actual campus information.",
+    "link": "https://example.com"
+  },
+  {
+    "name": "ATF Campus Togo",
+    "university": "University Network",
+    "country": "Togo",
+    "city": "Lomé",
+    "type": "University",
+    "description": "An example regional group. Replace this record with your actual campus information.",
+    "link": "https://example.com"
+  }
+]
